@@ -1,2 +1,2 @@
-require("maxfahl.core")
-require("maxfahl.lazy")
+require("deidine.core")
+require("deidine.lazy")

@@ -11,7 +11,7 @@ if not vim.loop.fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
-require("lazy").setup({ { import = "maxfahl.plugins" }, { import = "maxfahl.plugins.lsp" } }, {
+require("lazy").setup({ { import = "deidine.plugins" }, { import = "deidine.plugins.lsp" } }, {
   checker = {
     enabled = true,
     notify = false,

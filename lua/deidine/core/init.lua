@@ -1,2 +1,2 @@
-require("maxfahl.core.options")
-require("maxfahl.core.keymaps")
+require("deidine.core.options")
+require("deidine.core.keymaps")
